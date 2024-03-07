@@ -1,0 +1,62 @@
+* {
+    border: 1px solid brown;
+    margin: 1vw;
+}
+
+body {
+    background-color: goldenrod;
+}
+
+button {
+    display: block;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+
+button:hover {
+    font-size: larger;
+    background-color: black;
+    color: white;
+}
+
+a {
+    display: block;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+
+img {
+    opacity: 0.4;
+    width: 200px;
+    height: 200px;
+}
+
+img:hover {
+    opacity: 1;
+}
+
+p {
+    font-size: xx-large;
+}
+
+p:hover {
+    background-color: brown;
+    color: white;
+
+    text-transform: uppercase;
+}
+
+/* Heading */
+#heading {
+    background-color: brown;
+    color: white;
+}
+
+/* First paragraph */
+#paragraph {
+    color: white;
+}
+
+#p-div:hover {
+    background-color: brown;
+}
